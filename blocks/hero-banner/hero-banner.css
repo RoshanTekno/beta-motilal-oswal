@@ -1,0 +1,10 @@
+.hero-banner-container .hero-banner-wrapper {
+    max-width: unset;
+    padding: 0;
+    width: 100%;
+}
+
+.hero-banner {
+    overflow-y: auto;
+    max-height: 205px;
+}
